@@ -10,7 +10,7 @@ From all dataset (~4gb) we select timeframe in _ years: from _ to _ years
 ### Results:
 
 | Method | Avarage deviation from reference values |
-|---|---|---|---|---|
+|---|---|
 |   |   |
 |   |   |
 |   |   |
