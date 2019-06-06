@@ -6,7 +6,7 @@ Dataset getted from https://catalog.data.gov/dataset/nypd-complaint-data-histori
 Description of dataset: https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i
 
 ### Parsed time:
-From all dataset (~2gb) we select timeframe in _ years: from _ to _ years
+From all dataset (~2gb) we select timeframe in 3 years: from 2007 to 2009 years, includes
 
 ### Methods:
 AR method: https://en.wikipedia.org/wiki/Autoregressive_model
